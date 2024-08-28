@@ -18,7 +18,8 @@ A simple dice game built with HTML, CSS, and JavaScript.
 
 To contribute to this project, please fork the repository and submit a pull request. You can also report any issues or suggest new features.
 
-# Dicee_Game
+
+# لعبة رمي النرد
 لعبة نرد بسيطة مبنية باستخدام HTML وCSS وJavaScript.
 
 ## الميزات:
